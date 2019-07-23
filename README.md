@@ -3,13 +3,13 @@ Code Louisville Project
 
 My project is to try to replicate a simple restaurant site. It consists of the following:
 
-*Home page <br>
-*Menu page <br>
-*locations page <br>
-*JavaScript for the carousel in carscript.js <br>
-*JavaScript for the Reservations modal function for in script.js <br>
-*CSS - both a regular and normalize files <br>
-*Images file containing any images used <br>
+* Home page <br>
+* Menu page <br>
+* locations page <br>
+* JavaScript for the carousel in carscript.js <br>
+* JavaScript for the Reservations modal function for in script.js <br>
+* CSS - both a regular and normalize files <br>
+* Images file containing any images used <br>
 
 Outside having all the files, nothing special should be required to open it.
 
