@@ -2,6 +2,8 @@
 let slideIndex = 0;
 showSlides();
 
+// Slideshow function
+
 function showSlides() {
   var i;
   var slides = document.getElementsByClassName("mySlides");
@@ -13,5 +15,5 @@ function showSlides() {
   slides[slideIndex-1].style.display = "block"; 
 }
 
-setInterval(showSlides, 5000)
-// End Slideshow 
+setInterval(showSlides, 3500)
+// End Slideshow function
