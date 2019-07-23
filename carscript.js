@@ -1,13 +1,21 @@
 // Begin Slideshow 
 let slideIndex = 0;
+var slides = document.getElementsByClassName("mySlides");
 showSlides();
+
+// function plusSlides(inc) {
+//   slideIndex = slideIndex + inc;
+//   if (slideIndex > slides.length) {
+//     slideIndex = 1;
+//   }
+//   // clearInterval(showSlides);
+//   // setInterval(showSlides, 3500);
+// }
 
 // Slideshow function
 
 function showSlides() {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
-  for (i = 0; i < slides.length; i++) {
+  for (let i = 0; i < slides.length; i++) {
     slides[i].style.display = "none"; 
   }
   slideIndex++;
