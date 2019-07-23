@@ -3,15 +3,6 @@ let slideIndex = 0;
 var slides = document.getElementsByClassName("mySlides");
 showSlides();
 
-// function plusSlides(inc) {
-//   slideIndex = slideIndex + inc;
-//   if (slideIndex > slides.length) {
-//     slideIndex = 1;
-//   }
-//   // clearInterval(showSlides);
-//   // setInterval(showSlides, 3500);
-// }
-
 // Slideshow function
 
 function showSlides() {
