@@ -1,3 +1,5 @@
+// Moved constants to top to make function easier to read and run
+
 const form = document.querySelector('.form');
 const reservationBtn = document.getElementById('jf-button-reservation');
 const reservationModal = document.getElementById("reservations");
