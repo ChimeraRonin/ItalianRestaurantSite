@@ -11,7 +11,7 @@ My project is to try to replicate a simple restaurant site. It consists of the f
 * CSS - both a regular and normalize files <br>
 * Images file containing any images used <br>
 
-Outside having all the files, nothing special should be required to open it.
+Outside having all the files, nothing special should be required to open it. It is responsive with smaller devices through Bootstrap and some CSS formatting.
 
 It is painfully simple, and I still needed and received a good bit of help, for which I am very grateful. Before Code Louisville, I knew nothing about coding. Looking at my site, that may still appear to be the case.
 
