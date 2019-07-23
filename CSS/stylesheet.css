@@ -130,7 +130,6 @@
 .jf-modal-container {
   display: none;
   position: fixed;  
-  /* width: 90%; */
   left: 50vw;
   top: 50vh;
   transform: translate3d(-50%, -50%, 0);
